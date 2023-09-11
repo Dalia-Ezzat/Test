@@ -1,0 +1,49 @@
+
+.contact h1 {
+  color:#2C3E50;
+}
+
+.contact .separator-line{
+  background-color:#2C3E50 !important;
+}
+
+
+
+.contact {
+  min-height: calc(100vh - 56px);   
+  padding-top: 5rem;
+}
+
+.form-control {
+  border: none;
+  border-bottom: #57585a77 1px solid;
+  
+}
+.form-control:focus {
+  box-shadow: none;
+
+}
+/* `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+  .contact {
+      min-height: calc(100vh - 56px);   
+      padding-top: 5rem;
+  }
+}
+
+.btn-primary {
+  background-color: #1abc9c;
+  border-color: #1abc9c;
+  color: #fff;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #16a085;
+  border-color: #16a085;
+  color: #fff;
+}
+
+
+

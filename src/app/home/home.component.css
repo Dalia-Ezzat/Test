@@ -1,0 +1,29 @@
+ .home {
+  background-color: #1ABC9C;
+  height: calc(100vh - 56px);
+} 
+
+
+.master-avatar {
+  vertical-align: middle;
+  width: 15rem;
+}
+
+/* .separator{
+  margin: 1.25rem auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.separator-line {
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  margin: auto 1.25rem;
+  border-radius: 1rem;
+} */
+
+
+

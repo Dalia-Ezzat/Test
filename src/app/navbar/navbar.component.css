@@ -1,0 +1,35 @@
+/*  */
+
+nav {
+  scroll-padding-top: 5em!important;
+}
+.active-link{
+  color: #fff;
+  background-color:#1ABC9C;
+  /* padding: 5px; */
+  /* border: 3px solid #fff; */
+  border-radius: 10px;
+}
+
+
+nav.bg-navy{
+  background-color:#2C3E50 !important;
+}
+
+.navbar-nav a{
+  color:white;
+  font-size: large;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.navbar-brand {
+  font-weight: 500;
+  font-size:2rem;
+
+}
+
+
+
+
+
+
